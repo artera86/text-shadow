@@ -23,7 +23,7 @@ export default function RootLayout({
   }
   @return $val;
 }</style></head>
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}></body>
     </html>
   );
 }
